@@ -1,5 +1,5 @@
 {
-  "name": "hamburgscleanest/laravel-guzzle-throttle",
+  "name": "dragosperca/laravel-guzzle-throttle",
   "type": "library",
   "description": "A Laravel wrapper for https://github.com/hamburgscleanest/guzzle-advanced-throttle.",
   "keywords": [
